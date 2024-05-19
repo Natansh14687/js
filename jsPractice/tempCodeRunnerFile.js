@@ -1,1 +1,10 @@
-let name = prompt("Please enter your name here");
+console.log();
+// console.log();
+// let stp1 = Math.random();
+// let stp2 = stp1 * 5;
+// let stp3 = Math.floor(stp2);
+// let stp4 = stp3 + 21;
+// console.log(stp1);
+// console.log(stp2);
+// console.log(stp3);
+// console.log(stp4);
