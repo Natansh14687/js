@@ -22,3 +22,10 @@ const info = {
 console.log(info);
 console.log(info.Natansh);
 console.log(info.Dushyant);
+
+info.aman = {
+    age : 20,
+    gender : "female",
+}
+console.log();
+console.log(info);
