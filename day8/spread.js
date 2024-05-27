@@ -52,3 +52,9 @@ console.log(oddObj);
 
 let name0 = "Natansh";
 console.log({...name0});
+
+//  ----------------------------------- min with spread ----------------------------------------------
+
+const array1 = [3,5,2,5,7,54,7,76,90,65,89,45];
+let minNo = Math.min(...array1);
+console.log(minNo);
